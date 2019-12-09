@@ -30,7 +30,7 @@
       "spec": {
         "containers": [
           {
-            "image": "tonywu8293/tekton-demo:v1",
+            "image": "tonywu8293/tekton-demo:v4",
             "imagePullPolicy": "Always",
             "name": "tekton-demo",
             "ports": [
